@@ -1,0 +1,8 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "BASE_URL_PLACEHOLDER",
+  "waitForAnimations": true,
+  "defaultCommandTimeout": 10000,
+  "pageLoadTimeout": 60000
+
+}
